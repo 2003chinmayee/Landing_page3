@@ -14,13 +14,6 @@ This repository contains the responsive HTML5 and CSS3 code for the  brand's off
 - CSS3
 - CSS scroll bar
 
-
-## Setup
-To clone this repository, use:
-```bash
-git clone [https://github.com/2003chinmayee/Landing_page3]
-
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
@@ -38,3 +31,12 @@ Contributions are welcome! Please follow these steps:
 ![App Screenshot](https://github.com/2003chinmayee/Landing_page3/blob/9f6ee59a0256e1593f151bd382db2e72d404965a/photo1.png)
 
 ![App Screenshot](https://github.com/2003chinmayee/Landing_page3/blob/9f6ee59a0256e1593f151bd382db2e72d404965a/photo2.png)
+
+
+## Setup
+To clone this repository, use:
+```bash
+git clone [https://github.com/2003chinmayee/Landing_page3]
+
+
+
