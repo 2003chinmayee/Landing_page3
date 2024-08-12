@@ -19,3 +19,11 @@ This repository contains the responsive HTML5 and CSS3 code for the  brand's off
 To clone this repository, use:
 ```bash
 git clone []
+
+## Visuals 📸
+
+
+
+![App Screenshot](https://github.com/2003chinmayee/Landing_page3/blob/9f6ee59a0256e1593f151bd382db2e72d404965a/photo1.png)
+
+![App Screenshot](https://github.com/2003chinmayee/Landing_page3/blob/9f6ee59a0256e1593f151bd382db2e72d404965a/photo2.png)
